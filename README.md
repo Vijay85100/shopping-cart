@@ -3,6 +3,6 @@ A simple script to create a shopping cart using list, set and dictionary
 
 # TODO:
 Create branches:octocat: for:
-- [x] shopping cart using lists
+- [ ] shopping cart using lists
 - [ ] shopping cart using sets
-- [ ] shopping cart using dictionary
+- [x] shopping cart using dictionary
